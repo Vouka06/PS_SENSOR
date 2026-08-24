@@ -1,0 +1,303 @@
+Teardrop Report BOARD_34.PcbDoc
+On 24.08.2026 at 15:29:55
+
+Pads visited                : 215
+
+Vias visited                : 75
+
+Pad teardrops failed : 0
+
+Pad Free-1(30.5mm,17.5mm) on Multi-Layer
+Pad Free-1(3.5mm,17.5mm) on Multi-Layer
+Pad R2-1(24.573mm,10.823mm) on Top Layer 1
+Pad R2-2(22.508mm,8.758mm) on Top Layer 1
+Pad R8-1(22.75mm,17.65mm) on Top Layer 1
+Pad R8-2(22.75mm,16.35mm) on Top Layer 1
+Pad R5-1(24.6mm,17.25mm) on Top Layer 1
+Pad R5-2(25.9mm,17.25mm) on Top Layer 1
+Pad VT2-3(25.502mm,21.161mm) on Top Layer 1
+Pad VT2-1(24.55mm,18.875mm) on Top Layer 1
+Pad VT2-2(26.455mm,18.875mm) on Top Layer 1
+Pad C19-2(19.8mm,23.5mm) on Top Layer 1
+Pad C19-1(18.2mm,23.5mm) on Top Layer 1
+Pad ZQ1-2(19.85mm,25.2mm) on Top Layer 1
+Pad ZQ1-1(18mm,27.5mm) on Top Layer 1
+Pad ZQ1-3(19.85mm,27.5mm) on Top Layer 1
+Pad ZQ1-3(18mm,25.2mm) on Top Layer 1
+Pad C18-2(16.8mm,26.5mm) on Top Layer 1
+Pad C18-1(15.2mm,26.5mm) on Top Layer 1
+Pad C21-2(15.3mm,25mm) on Top Layer 1
+Pad C21-1(13.7mm,25mm) on Top Layer 1
+Pad C20-2(15.3mm,23.25mm) on Top Layer 1
+Pad C20-1(13.7mm,23.25mm) on Top Layer 1
+Pad C15-2(11.5mm,14.55mm) on Top Layer 1
+Pad C15-1(11.5mm,12.95mm) on Top Layer 1
+Pad C14-2(9.5mm,15.3mm) on Top Layer 1
+Pad C14-1(9.5mm,11.7mm) on Top Layer 1
+Pad DD3-1(19.75mm,21.55mm) on Top Layer 1
+Pad DD3-2(19.25mm,21.55mm) on Top Layer 1
+Pad DD3-3(18.75mm,21.55mm) on Top Layer 1
+Pad DD3-4(18.25mm,21.55mm) on Top Layer 1
+Pad DD3-5(17.75mm,21.55mm) on Top Layer 1
+Pad DD3-6(17.25mm,21.55mm) on Top Layer 1
+Pad DD3-7(16.75mm,21.55mm) on Top Layer 1
+Pad DD3-9(15.75mm,21.55mm) on Top Layer 1
+Pad DD3-10(15.25mm,21.55mm) on Top Layer 1
+Pad DD3-11(14.75mm,21.55mm) on Top Layer 1
+Pad DD3-12(14.25mm,21.55mm) on Top Layer 1
+Pad DD3-13(12.95mm,20.25mm) on Top Layer 1
+Pad DD3-14(12.95mm,19.75mm) on Top Layer 1
+Pad DD3-15(12.95mm,19.25mm) on Top Layer 1
+Pad DD3-16(12.95mm,18.75mm) on Top Layer 1
+Pad DD3-17(12.95mm,18.25mm) on Top Layer 1
+Pad DD3-18(12.95mm,17.75mm) on Top Layer 1
+Pad DD3-19(12.95mm,17.25mm) on Top Layer 1
+Pad DD3-20(12.95mm,16.75mm) on Top Layer 1
+Pad DD3-21(12.95mm,16.25mm) on Top Layer 1
+Pad DD3-22(12.95mm,15.75mm) on Top Layer 1
+Pad DD3-24(12.95mm,14.75mm) on Top Layer 1
+Pad DD3-25(14.25mm,13.45mm) on Top Layer 1
+Pad DD3-26(14.75mm,13.45mm) on Top Layer 1
+Pad DD3-27(15.25mm,13.45mm) on Top Layer 1
+Pad DD3-28(15.75mm,13.45mm) on Top Layer 1
+Pad DD3-29(16.25mm,13.45mm) on Top Layer 1
+Pad DD3-30(16.75mm,13.45mm) on Top Layer 1
+Pad DD3-31(17.25mm,13.45mm) on Top Layer 1
+Pad DD3-32(17.75mm,13.45mm) on Top Layer 1
+Pad DD3-33(18.25mm,13.45mm) on Top Layer 1
+Pad DD3-34(18.75mm,13.45mm) on Top Layer 1
+Pad DD3-36(19.75mm,13.45mm) on Top Layer 1
+Pad DD3-37(21.05mm,14.75mm) on Top Layer 1
+Pad DD3-38(21.05mm,15.25mm) on Top Layer 1
+Pad DD3-39(21.05mm,15.75mm) on Top Layer 1
+Pad DD3-40(21.05mm,16.25mm) on Top Layer 1
+Pad DD3-41(21.05mm,16.75mm) on Top Layer 1
+Pad DD3-42(21.05mm,17.25mm) on Top Layer 1
+Pad DD3-43(21.05mm,17.75mm) on Top Layer 1
+Pad DD3-44(21.05mm,18.25mm) on Top Layer 1
+Pad DD3-45(21.05mm,18.75mm) on Top Layer 1
+Pad DD3-46(21.05mm,19.25mm) on Top Layer 1
+Pad DD3-48(21.05mm,20.25mm) on Top Layer 1
+Pad DD3-8(16.25mm,21.55mm) on Top Layer 1
+Pad DD3-23(12.95mm,15.25mm) on Top Layer 1
+Pad DD3-35(19.25mm,13.45mm) on Top Layer 1
+Pad DD3-47(21.05mm,19.75mm) on Top Layer 1
+Pad XP3-3(24.644mm,25.778mm) on Top Layer 1
+Pad C16-2(21.2mm,13.5mm) on Top Layer 1
+Pad C16-1(22.8mm,13.5mm) on Top Layer 1
+Pad C17-2(22.75mm,20.55mm) on Top Layer 1
+Pad C17-1(22.75mm,18.95mm) on Top Layer 1
+Pad C22-1(11.934mm,32.066mm) on Top Layer 1
+Pad C22-2(13.066mm,30.934mm) on Top Layer 1
+Pad R9-1(11.96mm,29.71mm) on Top Layer 1
+Pad R9-2(11.04mm,28.79mm) on Top Layer 1
+Pad D1-1(24.783mm,12.376mm) on Top Layer 1
+Pad D1-2(26.13mm,11.029mm) on Top Layer 1
+Pad D1-3(27.073mm,13.319mm) on Top Layer 1
+Pad DD2-6(16.365mm,2.775mm) on Top Layer 1
+Pad DD2-7(17.635mm,2.775mm) on Top Layer 1
+Pad DD2-4(15.095mm,8.225mm) on Top Layer 1
+Pad DD2-3(16.365mm,8.225mm) on Top Layer 1
+Pad DD2-2(17.635mm,8.225mm) on Top Layer 1
+Pad DD2-1(18.905mm,8.225mm) on Top Layer 1
+Pad DD2-5(15.095mm,2.775mm) on Top Layer 1
+Pad DD2-8(18.905mm,2.775mm) on Top Layer 1
+Pad C1-1(21.55mm,3mm) on Top Layer 1
+Pad C1-2(19.95mm,3mm) on Top Layer 1
+Pad XP3-4(23.76mm,26.662mm) on Top Layer 1
+Pad XP3-5(23.901mm,30.409mm) on Top Layer 1
+Pad XP3-6(30.159mm,24.151mm) on Top Layer 1
+Pad XP5-4(25.038mm,4.722mm) on Top Layer 1
+Pad XP5-3(29.528mm,9.212mm) on Top Layer 1
+Pad XP1-4(4.472mm,9.212mm) on Top Layer 1
+Pad XP1-3(8.962mm,4.722mm) on Top Layer 1
+Pad XP1-2(9.103mm,8.469mm) on Top Layer 1
+Pad S1-2(3.497mm,23.997mm) on Top Layer 1
+Pad R1-2(2.79mm,10.54mm) on Top Layer 1
+Pad HL2-2(6.543mm,22.543mm) on Top Layer 1
+Pad XP3-1(26.412mm,24.01mm) on Top Layer 1
+Pad XP3-2(25.528mm,24.894mm) on Top Layer 1
+Pad HL2-1(7.957mm,23.957mm) on Top Layer 1
+Pad R15-2(9.96mm,26.21mm) on Top Layer 1
+Pad R15-1(9.04mm,25.29mm) on Top Layer 1
+Pad HL1-2(5.043mm,12.793mm) on Top Layer 1
+Pad HL1-1(6.457mm,14.207mm) on Top Layer 1
+Pad R1-1(3.71mm,11.46mm) on Top Layer 1
+Pad XP5-2(25.781mm,9.353mm) on Top Layer 1
+Pad XP5-1(24.897mm,8.469mm) on Top Layer 1
+Pad XP1-1(8.219mm,9.353mm) on Top Layer 1
+Pad S1-1(10.003mm,30.503mm) on Top Layer 1
+Pad R11-1(15mm,14.6mm) on Bottom Layer 1
+Pad R11-2(15mm,15.9mm) on Bottom Layer 1
+Pad R10-1(13mm,14.6mm) on Bottom Layer 1
+Pad R10-2(13mm,15.9mm) on Bottom Layer 1
+Pad R13-1(19mm,14.6mm) on Bottom Layer 1
+Pad R13-2(19mm,15.9mm) on Bottom Layer 1
+Pad R12-1(17mm,14.6mm) on Bottom Layer 1
+Pad R12-2(17mm,15.9mm) on Bottom Layer 1
+Pad R14-1(21mm,14.6mm) on Bottom Layer 1
+Pad R14-2(21mm,15.9mm) on Bottom Layer 1
+Pad C10-2(22.434mm,24.066mm) on Bottom Layer 1
+Pad C10-1(23.566mm,22.934mm) on Bottom Layer 1
+Pad DA3-1(14.964mm,29.671mm) on Bottom Layer 1
+Pad DA3-2(15.624mm,29.671mm) on Bottom Layer 1
+Pad DA3-6(18.215mm,29.671mm) on Bottom Layer 1
+Pad DA3-7(18.876mm,29.671mm) on Bottom Layer 1
+Pad DA3-9(19.536mm,23.829mm) on Bottom Layer 1
+Pad DA3-10(18.876mm,23.829mm) on Bottom Layer 1
+Pad DA3-11(18.215mm,23.829mm) on Bottom Layer 1
+Pad DA3-12(17.58mm,23.829mm) on Bottom Layer 1
+Pad DA3-13(16.92mm,23.829mm) on Bottom Layer 1
+Pad DA3-14(16.285mm,23.829mm) on Bottom Layer 1
+Pad DA3-15(15.624mm,23.829mm) on Bottom Layer 1
+Pad DA3-16(14.964mm,23.829mm) on Bottom Layer 1
+Pad DA3-3(16.285mm,29.671mm) on Bottom Layer 1
+Pad DA3-4(16.92mm,29.671mm) on Bottom Layer 1
+Pad DA3-5(17.58mm,29.671mm) on Bottom Layer 1
+Pad DA3-8(19.536mm,29.671mm) on Bottom Layer 1
+Pad C12-2(17.95mm,22mm) on Bottom Layer 1
+Pad C12-1(19.55mm,22mm) on Bottom Layer 1
+Pad C11-2(16.8mm,22mm) on Bottom Layer 1
+Pad C11-1(15.2mm,22mm) on Bottom Layer 1
+Pad C3-2(10.05mm,15mm) on Bottom Layer 1
+Pad C3-1(8.45mm,15mm) on Bottom Layer 1
+Pad C4-2(8.45mm,20.75mm) on Bottom Layer 1
+Pad C4-1(10.05mm,20.75mm) on Bottom Layer 1
+Pad DD1-1(10.2mm,16.855mm) on Bottom Layer 1
+Pad DD1-4(8.3mm,19.145mm) on Bottom Layer 1
+Pad DD1-5(10.2mm,19.145mm) on Bottom Layer 1
+Pad DD1-2(9.25mm,16.855mm) on Bottom Layer 1
+Pad DD1-3(8.3mm,16.855mm) on Bottom Layer 1
+Pad XP2-1(8.42mm,23.812mm) on Bottom Layer 1
+Pad XP2-2(9.304mm,24.696mm) on Bottom Layer 1
+Pad XP2-3(10.188mm,25.58mm) on Bottom Layer 1
+Pad XP2-4(9.94mm,29.434mm) on Bottom Layer 1
+Pad XP2-5(4.566mm,24.06mm) on Bottom Layer 1
+Pad XP4-1(23.812mm,25.58mm) on Bottom Layer 1
+Pad XP4-2(24.696mm,24.696mm) on Bottom Layer 1
+Pad XP4-3(25.58mm,23.812mm) on Bottom Layer 1
+Pad XP4-4(29.434mm,24.06mm) on Bottom Layer 1
+Pad XP4-5(24.06mm,29.434mm) on Bottom Layer 1
+Pad DD4-1(25.662mm,11.033mm) on Bottom Layer 1
+Pad DD4-4(24.283mm,12.412mm) on Bottom Layer 1
+Pad DD4-8(27.217mm,12.588mm) on Bottom Layer 1
+Pad DD4-7(26.758mm,13.048mm) on Bottom Layer 1
+Pad DD4-6(26.298mm,13.508mm) on Bottom Layer 1
+Pad DD4-5(25.838mm,13.967mm) on Bottom Layer 1
+Pad DD4-2(25.202mm,11.492mm) on Bottom Layer 1
+Pad DD4-3(24.742mm,11.952mm) on Bottom Layer 1
+Pad C13-1(22.434mm,9.684mm) on Bottom Layer 1
+Pad C13-2(23.566mm,10.816mm) on Bottom Layer 1
+Pad R6-1(31.669mm,11.169mm) on Bottom Layer 1
+Pad R6-2(30.75mm,10.25mm) on Bottom Layer 1
+Pad C9-2(30.066mm,8.184mm) on Bottom Layer 1
+Pad C9-1(28.934mm,9.316mm) on Bottom Layer 1
+Pad C8-1(26.066mm,3.934mm) on Bottom Layer 1
+Pad C8-2(24.934mm,5.066mm) on Bottom Layer 1
+Pad DA2-4(27.638mm,8.231mm) on Bottom Layer 1
+Pad DA2-5(28.981mm,6.888mm) on Bottom Layer 1
+Pad DA2-2(26.69mm,5.94mm) on Bottom Layer 1
+Pad DA2-1(27.362mm,5.269mm) on Bottom Layer 1
+Pad DA2-3(26.019mm,6.612mm) on Bottom Layer 1
+Pad L1-2(20.171mm,4.25mm) on Bottom Layer 1
+Pad L1-1(14.329mm,4.25mm) on Bottom Layer 1
+Pad DA1-1(9.6mm,4.8mm) on Bottom Layer 1
+Pad C7-2(17.875mm,12.25mm) on Bottom Layer 1
+Pad C6-2(17.875mm,9.25mm) on Bottom Layer 1
+Pad DA1-5(11.9mm,5.75mm) on Bottom Layer 1
+Pad C2-1(12.05mm,3mm) on Bottom Layer 1
+Pad C7-1(14.625mm,12.25mm) on Bottom Layer 1
+Pad C6-1(14.625mm,9.25mm) on Bottom Layer 1
+Pad C5-1(12.525mm,9.05mm) on Bottom Layer 1
+Pad C5-2(9.275mm,9.05mm) on Bottom Layer 1
+Pad DA1-3(9.6mm,6.7mm) on Bottom Layer 1
+Pad DA1-2(9.6mm,5.75mm) on Bottom Layer 1
+Pad VT1-2(3.37mm,10.779mm) on Bottom Layer 1
+Pad VD1-2(4.794mm,8.544mm) on Bottom Layer 1
+Pad DA1-4(11.9mm,6.7mm) on Bottom Layer 1
+Pad R4-1(6.46mm,13.96mm) on Bottom Layer 1
+Pad C2-2(10.45mm,3mm) on Bottom Layer 1
+Pad DA1-6(11.9mm,4.8mm) on Bottom Layer 1
+Pad R4-2(5.54mm,13.04mm) on Bottom Layer 1
+Pad VD1-1(7.206mm,10.956mm) on Bottom Layer 1
+Pad VT1-1(4.717mm,12.126mm) on Bottom Layer 1
+Pad VT1-3(2.427mm,13.069mm) on Bottom Layer 1
+
+Via teardrops failed : 0
+
+Via (20.7mm,10.75mm) from Top Layer 1 to Bottom Layer 1
+Via (28.4mm,7.675mm) from Top Layer 1 to Bottom Layer 1
+Via (24.067mm,21.158mm) from Top Layer 1 to Bottom Layer 1
+Via (11.475mm,26.325mm) from Top Layer 1 to Bottom Layer 1
+Via (20.593mm,22.057mm) from Top Layer 1 to Bottom Layer 1
+Via (21.714mm,21.411mm) from Top Layer 1 to Bottom Layer 1
+Via (12.775mm,23.725mm) from Top Layer 1 to Bottom Layer 1
+Via (25.45mm,19.575mm) from Top Layer 1 to Bottom Layer 1
+Via (26.867mm,20.442mm) from Top Layer 1 to Bottom Layer 1
+Via (17.425mm,5.875mm) from Top Layer 1 to Bottom Layer 1
+Via (16.375mm,5.325mm) from Top Layer 1 to Bottom Layer 1
+Via (7.025mm,16.05mm) from Top Layer 1 to Bottom Layer 1
+Via (6.35mm,5.35mm) from Top Layer 1 to Bottom Layer 1
+Via (7.35mm,6.55mm) from Top Layer 1 to Bottom Layer 1
+Via (5.25mm,6.35mm) from Top Layer 1 to Bottom Layer 1
+Via (1.875mm,11.9mm) from Top Layer 1 to Bottom Layer 1
+Via (7.1mm,18.925mm) from Top Layer 1 to Bottom Layer 1
+Via (6.575mm,20.8mm) from Top Layer 1 to Bottom Layer 1
+Via (2.6mm,21.575mm) from Top Layer 1 to Bottom Layer 1
+Via (1.075mm,21.15mm) from Top Layer 1 to Bottom Layer 1
+Via (1.925mm,22.7mm) from Top Layer 1 to Bottom Layer 1
+Via (6.65mm,25.525mm) from Top Layer 1 to Bottom Layer 1
+Via (6.65mm,27.175mm) from Top Layer 1 to Bottom Layer 1
+Via (7.65mm,28.65mm) from Top Layer 1 to Bottom Layer 1
+Via (14.025mm,32.15mm) from Top Layer 1 to Bottom Layer 1
+Via (15.6mm,32.8mm) from Top Layer 1 to Bottom Layer 1
+Via (19.225mm,32.325mm) from Top Layer 1 to Bottom Layer 1
+Via (17.75mm,32.85mm) from Top Layer 1 to Bottom Layer 1
+Via (20.7mm,32.65mm) from Top Layer 1 to Bottom Layer 1
+Via (22.375mm,31.925mm) from Top Layer 1 to Bottom Layer 1
+Via (27.625mm,26.1mm) from Top Layer 1 to Bottom Layer 1
+Via (26.225mm,28.475mm) from Top Layer 1 to Bottom Layer 1
+Via (30.375mm,21.575mm) from Top Layer 1 to Bottom Layer 1
+Via (32.3mm,22mm) from Top Layer 1 to Bottom Layer 1
+Via (32.525mm,13.8mm) from Top Layer 1 to Bottom Layer 1
+Via (23.55mm,2.875mm) from Top Layer 1 to Bottom Layer 1
+Via (26.2mm,15.8mm) from Top Layer 1 to Bottom Layer 1
+Via (24.828mm,13.52mm) from Top Layer 1 to Bottom Layer 1
+Via (23.9mm,15.2mm) from Top Layer 1 to Bottom Layer 1
+Via (25.573mm,14.727mm) from Top Layer 1 to Bottom Layer 1
+Via (13.2mm,1.175mm) from Top Layer 1 to Bottom Layer 1
+Via (19.307mm,10.034mm) from Top Layer 1 to Bottom Layer 1
+Via (14.634mm,17.084mm) from Top Layer 1 to Bottom Layer 1
+Via (16.05mm,17.225mm) from Top Layer 1 to Bottom Layer 1
+Via (12.033mm,22.458mm) from Top Layer 1 to Bottom Layer 1
+Via (20.3mm,28.875mm) from Top Layer 1 to Bottom Layer 1
+Via (22.822mm,25.871mm) from Top Layer 1 to Bottom Layer 1
+Via (21.975mm,24.95mm) from Top Layer 1 to Bottom Layer 1
+Via (15.517mm,1.592mm) from Top Layer 1 to Bottom Layer 1
+Via (12.85mm,7.3mm) from Top Layer 1 to Bottom Layer 1
+Via (11.875mm,10.9mm) from Top Layer 1 to Bottom Layer 1
+Via (13.575mm,12.4mm) from Top Layer 1 to Bottom Layer 1
+Via (13.575mm,8.075mm) from Top Layer 1 to Bottom Layer 1
+Via (13.55mm,10.525mm) from Top Layer 1 to Bottom Layer 1
+Via (11.925mm,1.825mm) from Top Layer 1 to Bottom Layer 1
+Via (22.4mm,5.476mm) from Top Layer 1 to Bottom Layer 1
+Via (27.81mm,12.156mm) from Top Layer 1 to Bottom Layer 1
+Via (29.375mm,12.625mm) from Top Layer 1 to Bottom Layer 1
+Via (11.575mm,20.325mm) from Top Layer 1 to Bottom Layer 1
+Via (10.985mm,18.368mm) from Top Layer 1 to Bottom Layer 1
+Via (9.783mm,18mm) from Top Layer 1 to Bottom Layer 1
+Via (12.65mm,21.725mm) from Top Layer 1 to Bottom Layer 1
+Via (13.35mm,26.15mm) from Top Layer 1 to Bottom Layer 1
+Via (13.325mm,28.95mm) from Top Layer 1 to Bottom Layer 1
+Via (25.85mm,22.1mm) from Top Layer 1 to Bottom Layer 1
+Via (26.8mm,22.15mm) from Top Layer 1 to Bottom Layer 1
+Via (22.134mm,26.314mm) from Top Layer 1 to Bottom Layer 1
+Via (24.775mm,21.95mm) from Top Layer 1 to Bottom Layer 1
+Via (10.95mm,23.375mm) from Top Layer 1 to Bottom Layer 1
+Via (17.025mm,17.575mm) from Top Layer 1 to Bottom Layer 1
+Via (18.3mm,18.3mm) from Top Layer 1 to Bottom Layer 1
+Via (19.575mm,11.2mm) from Top Layer 1 to Bottom Layer 1
+Via (21.1mm,11.7mm) from Top Layer 1 to Bottom Layer 1
+Via (22.376mm,10.874mm) from Top Layer 1 to Bottom Layer 1
+Via (6.266mm,10.316mm) from Top Layer 1 to Bottom Layer 1
+

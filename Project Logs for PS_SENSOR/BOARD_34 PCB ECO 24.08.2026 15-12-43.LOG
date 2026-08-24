@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=RS485_N Pin=R7-1
+Removed Pin From Net: NetName=RS485_P Pin=R7-2
+Removed Member From Class: ClassName=Shema Member=R7
+Added Component: Designator=R2(1206R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_120_1_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS485_N Pin=R2-1
+Added Pin To Net: NetName=RS485_P Pin=R2-2
+Added Member To Class: ClassName=Shema Member=Component R2 Resistor
