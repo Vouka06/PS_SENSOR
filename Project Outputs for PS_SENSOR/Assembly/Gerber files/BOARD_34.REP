@@ -2,13 +2,20 @@
 FileName = BOARD_34.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 2
-      File : BOARD_34.GM4
+Generating : Top Overlay
+      File : BOARD_34.GTO
 
-    Adding Layer      : Mechanical 2
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -19,107 +26,7 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : BOARD_34.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D24
-    D27
-    D34
-    D35
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : BOARD_34.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : BOARD_34.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D40
-    D41
-    D46
-    D49
-    D59
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
+    D90
 *************************************************************
 
 *************************************************************
@@ -160,36 +67,39 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : BOARD_34.GBO
+Generating : Top Paste
+      File : BOARD_34.GTP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Paste
 
+    Adding Layer      : Top Layer 1
 
-Used DCodes :
-    D11
-    D12
-    D14
-    D15
-    D16
-    D89
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : BOARD_34.GTO
-
-    Adding Layer      : Top Overlay
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
 *************************************************************
 
 *************************************************************
@@ -224,6 +134,97 @@ Used DCodes :
     D72
     D73
     D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BOARD_34.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D46
+    D49
+    D59
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BOARD_34.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D24
+    D27
+    D34
+    D35
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BOARD_34.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D12
+    D14
+    D15
+    D16
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : BOARD_34.GM4
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
